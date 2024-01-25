@@ -1,9 +1,9 @@
 :root {
-  --blanco: #ffffff;
-  --obscuro: #212121;
-  --primario: #ffc107;
-  --secundario: #0097a7;
-  --gris: #757575;
+  --blanco: #dad7cd;
+  --obscuro: #344e41;
+  --primario: #588157;
+  --secundario: #588157;
+  --gris: #ccd5ae;
 
   --fuente-principal: 3.8rem;
 }
@@ -29,7 +29,7 @@ html {
 body {
   font-size: 16px;
   font-family: "Krub", sans-serif;
-  background-image: linear-gradient(to top, #dfe9f3 0%, var(--blanco) 100%);
+  background-image: linear-gradient(to top, #588157 0%, var(--blanco) 100%);
 }
 
 .contenedor {
